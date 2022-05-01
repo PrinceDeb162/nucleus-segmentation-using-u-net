@@ -1,1 +1,1 @@
-# nucleus-segmentation-using-u-net
+# nucleus segmentation using U-Net
